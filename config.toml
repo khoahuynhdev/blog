@@ -1,6 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://khoahuynhdev.github.io"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Khoahuynhdev notes"
+title = "Khoahuynhdev"
 theme = "uBlogger"
 
 [params]

@@ -1,3 +1,7 @@
 [submodule "themes/uBlogger"]
 	path = themes/uBlogger
 	url = https://github.com/uPagge/uBlogger.git
+[submodule "public"]
+	path = public
+	url = git@github.com:khoahuynhdev/khoahuynhdev.github.io.git
+	branch = master
